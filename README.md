@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surk Park</h1>
-<h3 align="center">Oompu Lab's AI Director</h3>
+<h3 align="center">Founder of Unaique & Oompu Lab's AI Director</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parksurk&label=Profile%20views&color=0e75b6&style=flat" alt="parksurk" /> </p>
 
@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/surkpark" target="blank"><img src="https://img.shields.io/twitter/follow/surkpark?logo=twitter&style=for-the-badge" alt="surkpark" /></a> </p>
 
-- 🔭 I’m currently working on [Oompu Lab](https://www.linkedin.com/in/parksurk/)
+- 🔭 I’m currently working on [Unaique & Oompu Lab](https://www.linkedin.com/in/parksurk/)
 
-- 🌱 I’m currently learning **Upstage AI Lab bootcamp course**
+- 🌱 I learned **Upstage AI Lab bootcamp course**
 
-- 👯 I’m looking to collaborate on [Concensus 2024 conference](https://consensus2024.coindesk.com/)
-
-- 🤝 I’m looking for help with **Metamorphosis Lab**
+- 👯 I’m looking to collaborate on [ETHDenver 2026 conference](https://ethdenver.com/)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/parksurk/](https://www.linkedin.com/in/parksurk/)
 
