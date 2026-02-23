@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parksurk&label=Profile%20views&color=0e75b6&style=flat" alt="parksurk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parksurk" alt="parksurk" /></a> </p>
+<p align="left">
+  <a href="https://github.com/jamesgeorge007/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=parksurk&theme=dark" alt="parksurk's streak" />
+  </a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/surkpark" target="blank"><img src="https://img.shields.io/twitter/follow/surkpark?logo=twitter&style=for-the-badge" alt="surkpark" /></a> </p>
 
